@@ -9,6 +9,6 @@ public class CalculadoraTest {
     public void testSoma() {
         Calculadora calc = new Calculadora();
         int resultado = calc.soma(2, 3);
-        assertEquals(6, resultado); // Deve passar
+        assertEquals(5, resultado); // Deve passar
     }
 }

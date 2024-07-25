@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [25/Jul/2024:08:41:29 -0300] "GET /helloworld/hello HTTP/1.1" 200 24 http-bio-8080-exec-1 47
+0:0:0:0:0:0:0:1 - - [25/Jul/2024:08:41:29 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [25/Jul/2024:08:41:32 -0300] "GET /helloworld/hello HTTP/1.1" 200 24 http-bio-8080-exec-4 1
